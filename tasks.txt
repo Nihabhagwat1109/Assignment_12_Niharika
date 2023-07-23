@@ -1,0 +1,4 @@
+cycling
+walking
+running
+dancing
